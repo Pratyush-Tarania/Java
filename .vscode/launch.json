@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tri123",
+            "request": "launch",
+            "mainClass": "tri123",
+            "projectName": "JAVA_82550f7f"
+        },
+        {
+            "type": "java",
+            "name": "rectanglestar",
+            "request": "launch",
+            "mainClass": "rectanglestar",
+            "projectName": "JAVA_82550f7f"
+        },
+        {
+            "type": "java",
+            "name": "starsmountain",
+            "request": "launch",
+            "mainClass": "starsmountain",
+            "projectName": "JAVA_82550f7f"
+        },
+        {
+            "type": "java",
+            "name": "evenfibbo",
+            "request": "launch",
+            "mainClass": "evenfibbo",
+            "projectName": "JAVA_82550f7f"
+        },
+        {
+            "type": "java",
+            "name": "changeToBinary",
+            "request": "launch",
+            "mainClass": "changeToBinary",
+            "projectName": "JAVA_82550f7f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "JAVA_82550f7f"
+        }
+    ]
+}
